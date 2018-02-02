@@ -1,7 +1,7 @@
 package com.rb.sz.cmb.one;
 
 /**
- * Hello world!
+ * Hello world!dsfsdf
  *
  */
 public class App 
